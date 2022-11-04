@@ -2,21 +2,39 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rrmhearts&theme=graywhite&show_icons=true)](https://github.com/rrmhearts)
 
 ### Topics of interest
-- 🔭 I’m currently working in..
-   - Adversarial robustness for deep learning
-   - Computation argumentation
-   - Natural language processing / Text To Speech
-- 🌱 I’m currently learning..
-   - Rust language
-   - Macro-economics
-   - Ecclesiastes
- - 💬 Ask me about..
-   - Machine learning
-   - Computer science
-   - Theology
-   - Mathematics
-   - Economics
 
+<table>
+<tr>
+<th> 🔭 I’m currently working in.. </th>
+<th> 🌱 I’m currently learning.. </th>
+<th> 💬 Ask me about.. </th>
+</tr>
+<tr>
+<td>
+
+- Adversarial robustness for deep learning
+- Computation argumentation
+- Natural language processing / Text To Speech
+   
+</td>
+<td>
+
+- Rust language
+- Macro-economics
+- Ecclesiastes
+   
+</td>
+<td>
+
+- Machine learning
+- Computer science
+- Theology
+- Mathematics
+- Economics
+
+</td>
+</tr>
+</table>
 
 <!--
 **rrmhearts/rrmhearts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
