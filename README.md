@@ -13,15 +13,15 @@
 <td>
 
 - Adversarial robustness for deep learning
-- Computation argumentation
+- Statistical modeling
 - Natural language processing / Text To Speech
    
 </td>
 <td>
 
-- Rust language
+- Deep Python skills
 - Macro-economics
-- Ecclesiastes
+- Colossians
    
 </td>
 <td>
