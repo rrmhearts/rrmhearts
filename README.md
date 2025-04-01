@@ -12,7 +12,7 @@
 <tr>
 <td>
 
-- Adversarial robustness for deep learning
+- Machine learning/ Deep learning
 - Statistical modeling
 - Natural language processing / Text To Speech
    
@@ -20,15 +20,15 @@
 <td>
 
 - Deep Python skills
-- Macro-economics
-- Colossians
+- Rust
+- Revelation
    
 </td>
 <td>
 
 - Machine learning
 - Computer science
-- Theology
+- Christian Theology
 - Mathematics
 - Economics
 
