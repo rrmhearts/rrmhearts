@@ -1,6 +1,9 @@
 ### Welcome 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rrmhearts&theme=graywhite&show_icons=true)](https://github.com/rrmhearts)
 
+[!["Google Scholar](https://img.icons8.com/?size=100&id=drPiDBy9kkJ3&format=png&color=000000)](https://scholar.google.com/citations?user=WbSU8bAAAAAJ&hl=en&authuser=1)
+[!["LinkedIn"](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/ryan-mccoppin-4611a223/)
+[!["Orcid ID"](https://img.icons8.com/?size=100&id=ve6L0KkSotok&format=png&color=000000)](https://orcid.org/0000-0003-2020-0758)
 ### Topics of interest
 
 <table>
@@ -12,16 +15,16 @@
 <tr>
 <td>
 
-- Machine learning/ Deep learning
-- Statistical modeling
+- Machine learning / Python
+- C++ / C / Rust
 - Natural language processing / Text To Speech
    
 </td>
 <td>
 
-- Deep Python skills
+- Simulation and Modeling
 - Rust
-- Revelation
+- Cryptography
    
 </td>
 <td>
