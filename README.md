@@ -1,5 +1,5 @@
 ### Welcome 👋
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rrmhearts&theme=graywhite&show_icons=true)](https://github.com/rrmhearts)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rrmhearts)](https://git.io/streak-stats)
 
 [!["Google Scholar](https://img.icons8.com/?size=100&id=drPiDBy9kkJ3&format=png&color=000000)](https://scholar.google.com/citations?user=WbSU8bAAAAAJ&hl=en&authuser=1)
 [!["LinkedIn"](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/ryan-mccoppin-4611a223/)
