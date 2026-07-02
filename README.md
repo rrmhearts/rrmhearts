@@ -16,15 +16,15 @@
 <td>
 
 - Machine learning / Python
-- C++ / C / Rust
-- Natural language processing / Text To Speech
+- C++ / C / Lua
+- Simulation and Modeling
    
 </td>
 <td>
 
-- Simulation and Modeling
+- Lua
 - Rust
-- Cryptography
+- Computer Graphics
    
 </td>
 <td>
@@ -39,7 +39,7 @@
 </tr>
 </table>
 
-Hi! I am computer scientist specializing in data science and machine learning. I have also spent several years in embedded systems and web technology because I enjoy constantly learning new things. I generally prefer the C/Python world over web technology/React/JavaScript but can operate in both. Rust is my current learning passion. Take a look at some of my repositories down below. 👇🏻
+Hi! I am computer scientist specializing in data science and machine learning. I have also spent several years in embedded systems and web technology because I enjoy constantly learning new things. Currently mastering simulation and modeling in C++ and Lua. I generally prefer the C/Python world over web technology/React/JavaScript but can operate in both. Rust is my current learning passion. Take a look at some of my repositories down below. 👇🏻
 
 <!--
 **rrmhearts/rrmhearts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
